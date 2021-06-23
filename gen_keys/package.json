@@ -1,0 +1,13 @@
+{
+   "name": "gen_keys_ecdh_prime256v1",
+   "version": "0.0.1",
+   "description": "Generate prime256v1 ECDH keys & Auth Secret",
+   "main": "gen_keys_node.js",
+   "scripts": {
+      "gen_keys": "node gen_keys_node.js"
+   },
+   "license": "AGPL-3.0-or-later",
+   "dependencies": {
+      "urlsafe-base64": "^1.0.0"
+   }
+}

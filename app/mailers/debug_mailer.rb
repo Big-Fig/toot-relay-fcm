@@ -1,0 +1,2 @@
+class DebugMailer < ApplicationMailer
+end
